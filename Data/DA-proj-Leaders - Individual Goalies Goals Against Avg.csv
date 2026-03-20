@@ -1,0 +1,40 @@
+Individual Goalies (IG) Goals Against Avg,,,,,
+Index,Player,GP,GA,Minutes,GaAvg
+1,"Samuels, Andrew (Princeton)",19,7,1704:27:00,0.37
+2,"Falcon III, Phillip (Penn)",12,7,1080:00:00,0.58
+3,"Friedberg, Ryan (Cornell)",20,14,1790:51:00,0.7
+4,"Kelliher, Dean (Columbia)",9,11,810:00:00,1.22
+5,"MacNeil, Cullen (Harvard)",10,14,900:00:00,1.4
+6,"Weiper, Henrik (Brown)",9,14,740:41:00,1.7
+7,"Lee, Conrad (Yale)",15,26,1336:32:00,1.75
+8,"Dellas, Konstantinos (Dartmouth)",10,15,724:25:00,1.86
+(IG) Shutouts/clean sheats Per Game,,,,,
+Index,Player,GP,Shutouts,Sho/G,
+1,"Samuels, Andrew (Princeton)",19,12,0.632,
+2,"Friedberg, Ryan (Cornell)",20,10,0.5,
+3,"Falcon III, Phillip (Penn)",12,7,0.583,
+4,"MacNeil, Cullen (Harvard)",10,3,0.3,
+5,"Lee, Conrad (Yale)",15,2,0.133,
+6,"Kelliher, Dean (Columbia)",9,2,0.222,
+7,"Weiper, Henrik (Brown)",9,2,0.222,
+8,"Dellas, Konstantinos (Dartmouth)",10,0,0,
+(IG) Saves,,,,,
+Index,Player,GP,Saves,GA,SavePct
+1,"Samuels, Andrew (Princeton)",19,61,7,0.897
+2,"Falcon III, Phillip (Penn)",12,43,7,0.86
+3,"Friedberg, Ryan (Cornell)",20,39,14,0.736
+4,"Kelliher, Dean (Columbia)",9,30,11,0.732
+5,"MacNeil, Cullen (Harvard)",10,37,14,0.725
+6,"Lee, Conrad (Yale)",15,62,26,0.705
+7,"Dellas, Konstantinos (Dartmouth)",10,33,15,0.688
+8,"Weiper, Henrik (Brown)",9,28,14,0.667
+(IG) Saves Per Game,,,,,
+Index,Player,GP,NO,Avg/G,
+1,"Lee, Conrad (Yale)",15,62,4.13,
+2,"MacNeil, Cullen (Harvard)",10,37,3.7,
+3,"Falcon III, Phillip (Penn)",12,43,3.58,
+4,"Kelliher, Dean (Columbia)",9,30,3.33,
+5,"Dellas, Konstantinos (Dartmouth)",10,33,3.3,
+6,"Samuels, Andrew (Princeton)",19,61,3.21,
+7,"Weiper, Henrik (Brown)",9,28,3.11,
+8,"Friedberg, Ryan (Cornell)",20,39,1.95,
